@@ -86,12 +86,12 @@ collections:
 
 repository: changchunli/changchunli.github.io
 
-# ---------------- # 
-#      Comments    #
-# ---------------- #
-# support provider: disqus, gitment, gitalk
-#comments_provider: gitalk
-comments_provider: gitalk
+# # ---------------- # 
+# #      Comments    #
+# # ---------------- #
+# # support provider: disqus, gitment, gitalk
+# #comments_provider: gitalk
+# comments_provider: gitalk
 
 
 # # !!!重要!!! 请修改下面这些信息为你自己申请的
