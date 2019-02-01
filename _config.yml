@@ -50,7 +50,7 @@ navs:
     label: Misc
 
   -
-    href: /blog/
+    href: /categories/
     label: Blog
 
 # ---------------- #
@@ -71,7 +71,7 @@ quiet: false
 excerpt_separator: "\n\n"
 permalink: /:year/:month/:day/:title/
 options:
-#     - jekyll-github-metadata
+    - jekyll-github-metadata
     - rouge
 #     - jekyll-html-pipeline
     - jekyll-paginate
