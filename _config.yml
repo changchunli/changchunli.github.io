@@ -4,7 +4,7 @@
 baseurl:
 # url: http://mmcwendy.info
 date_format: "ordinal"
-title: Changchun Li 
+title: Changchun Li
 subtitle: "Welcome!"
 description: "Changchun Li's Homepage"
 keywords: Algorithm,Machine Learning(eg.Deep Learning) for NLP(Natural Language Processing),Data mining
@@ -15,11 +15,11 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Changchun Li 
-organization: CCST of Jilin University 
+author: Changchun Li
+organization: CCST of Jilin University
 organization_url: http://ccst.jlu.edu.cn
-github_username: changchunli 
-location: Changchun, Jilin 
+github_username: changchunli
+location: Changchun, Jilin
 email: changchunli93@gmail.com
 
 # ---------------- #

@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About
-description: Changchun Li's Homepage 
-keywords: Changchun Li 
+description: Changchun Li's Homepage
+keywords: Changchun Li
 comments: true
 menu: 关于
 permalink: /about/
@@ -16,7 +16,7 @@ subtitle:   <h3>Download My CV</h3>
                             
 ---
 
-## 联系
+## Contact 
 
 {% for website in site.data.social %}
 * {{ website.sitename }}：[@{{ website.name }}]({{ website.url }})
